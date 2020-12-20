@@ -43,7 +43,7 @@
 			"name": "User names",
 			"scope": "constant.character, constant.other,entity.name.function, entity.name.class, entity.other.inherited-class, entity.other.attribute-name, entity.name, entity.other.attribute-name, entity.other.attribute-name.html, support.type.property-name, entity.name.tag.table, meta.structure.dictionary.json string.quoted.double.json",
 			"settings": {
-        "foreground": "#798283",
+        "foreground": "#6e9599",
         "fontStyle": "italic"
 			}
 		},
